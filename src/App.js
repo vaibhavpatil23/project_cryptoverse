@@ -3,13 +3,13 @@ import { Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 
 import { Exchanges, Homepage, News, Cryptocurrencies, CryptoDetails, Navbar } from './components';
-import './App.css';
+import './ App.css';
 
 const App = () => (
   <div className="app">
     <div className="navbar">
-      <Navbar />
-    </div>
+      <Navbar />jalgoan
+    </div>``
     <div className="main">
       <Layout>
         <div className="routes">
