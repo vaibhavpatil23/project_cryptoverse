@@ -12,9 +12,9 @@ import {
 } from "./components";
 import "./ App.css";
 
-const App = () => (
+const App = () => ( 
   <div className="app">
-    <div className="navbar">
+    <div className="navbar"> 
       <Navbar />
       jalgoan
     </div>
